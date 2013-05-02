@@ -25,5 +25,4 @@ Model the domain so that the objects can interact to recreate this scenarios.
 
 - Fork this repository (*more on forking [here](https://help.github.com/articles/fork-a-repo)*)
 - **play around**
-
 ** GOOD LUCK! **

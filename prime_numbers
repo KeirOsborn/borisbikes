@@ -1,0 +1,11 @@
+require_relative 'prime_numbers'
+
+describe 'prime numbers' do
+
+it 'finds prime numbers'
+ prime_numbers(1).should eq true
+end
+
+it
+
+end

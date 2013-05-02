@@ -1,0 +1,1 @@
+return 'fizzbuzz' if divides_by_fifteen(number)
